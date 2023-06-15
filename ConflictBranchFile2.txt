@@ -1,0 +1,2 @@
+Some file content
+this is ConflictBranchFile2.txt
